@@ -2,7 +2,7 @@
 
 After [WooThemes](http://www.woothemes.com/) discovered [Drew Wilson](http://www.drewwilson.com/) and his amazing work on [Dribbble](http://dribbble.com/shots/17846-Pictos-Free), they decided to contact him about working with the WooTeam to bring some of that awesomeness over there. The result is a free, vector icon set which contains 21 icons perfectly suited for your blogging needs.
 
-For a quick and super simple example, check out [pictosfree.heroku.com](http://pictosfree.heroku.com/).
+For a quick and super simple example, check out [pictosfree.heroku.com](http://pictosfree.heroku.com/) or the [example code](https://github.com/adamstac/pictosfree.heroku.com).
 
 ## Installation
 
