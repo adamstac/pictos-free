@@ -2,9 +2,11 @@
 
 After [WooThemes](http://www.woothemes.com/) discovered [Drew Wilson](http://www.drewwilson.com/) and his amazing work on [Dribbble](http://dribbble.com/shots/17846-Pictos-Free), they decided to contact him about working with the WooTeam to bring some of that awesomeness over there. The result is a free, vector icon set which contains 21 icons perfectly suited for your blogging needs.
 
+For a quick and super simple example, check out [pictosfree.heroku.com](http://pictosfree.heroku.com/).
+
 ## Installation
 
-Pictos Free requires the usage of [Compass](http://compass-style.org/) and [Sass](http://sass-lang.com/) and is delivered as a Ruby gem. If you are not yet setup to work with Compass and Sass, please see the [getting started guide](http://thesassway.com/beginner/getting-started-with-sass-and-compass) at [The Sass Way](http://thesassway.com/).
+Pictos Free requires the usage of [Compass](http://compass-style.org/) and [Sass](http://sass-lang.com/) and is delivered as a [Ruby gem](https://rubygems.org/gems/pictos-free). If you are not yet setup to work with Compass and Sass, please see the [getting started guide](http://thesassway.com/beginner/getting-started-with-sass-and-compass) at [The Sass Way](http://thesassway.com/).
 
     (sudo) gem install pictos-free
 
