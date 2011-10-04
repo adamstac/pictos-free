@@ -39,7 +39,7 @@ Once you've done this, your project will be ready to use Pictos Free! The next s
 
 If you know how to use [Compass Sprites](http://compass-style.org/reference/compass/utilities/sprites/), you know how to use Pictos Free. Right now, only 72px black and white versions of the icons are included. If you'd like to use other sizes, feel fork this project, add the new versions and send a pull request.
 
-All you need to do is `@import` the white or black version and Compass takes care of the rest. Oh, and you MUST have the [Pictos icons](https://github.com/adamstac/pictos-free/templates/icons) installed.
+All you need to do is `@import` the white or black version and Compass takes care of the rest. Oh, and you MUST have the [Pictos icons](https://github.com/adamstac/pictos-free/tree/master/templates/icons) installed.
 
 Here's an example snippet of Sass to show how it can be used:
 
